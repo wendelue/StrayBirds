@@ -117,12 +117,12 @@ disqus:
 
 username: wendelue
 baseurl: /StrayBirds
-markdown: redcarpet
+#markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Machine Learning
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: leap-day
+theme: modernist
 disqusname: wendelue
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
