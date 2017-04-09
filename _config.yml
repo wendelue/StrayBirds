@@ -110,12 +110,12 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: wendelue
 
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: wendelue
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
